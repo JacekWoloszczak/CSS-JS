@@ -1,7 +1,7 @@
 const container = document.querySelector("#container");
 const color = ["#e74c3c", "#8e44ad", "#e67e22", "#2ecc71"];
 
-const SQUARE = 200;
+const SQUARE = 500;
 
 for (let i = 0; i < SQUARE; i++) {
   const squares = document.createElement("div");
